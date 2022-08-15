@@ -3,3 +3,32 @@
 3.ti add file to the stagung erea:git add file name
 4.to commit (commit is to trake after the changed ):git commit -m(message) "the message that u want u put"
 5.to see the commit that have been done:git log
+6.removing file that added :git rm --cached -r  .(the dot mean remove all)
+
+........................................................................................................
+
+///SETING UP A REPSTOREY ON GITHUB:
+1.CRETE A NEW REPASTORY ON GIT HUB.
+2.cd to the folder of the folder to u want to push to gitHub:git remote add origion(the not hae to origion!!)
+3. to push the project to git :git push -u origion(the name) master 
+
+........................................................................................................
+
+//GIT IGNORE:
+1.touch .gitignore
+2.write in the .gitignore file the names of the files that u dont want to post 
+3.note!! there a template in github that called .gitignore with the template for this the specific file called swift
+
+........................................................................................................
+
+//git clone:
+git clone <URL>
+........................................................................................................
+
+//BRANCH:
+1.enter to the folder of the project
+2.git branch <the name that want to give to the new branch >
+3.to see all the branches:git branch
+4.to move to another branch :git checkout <name of the branch>
+5.
+........................................................................................................
