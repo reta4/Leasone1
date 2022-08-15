@@ -1,0 +1,5 @@
+1.to insliazie empty git repostiory :git init 
+2.to see what in u stageing erea :git status
+3.ti add file to the stagung erea:git add file name
+4.to commit (commit is to trake after the changed ):git commit -m(message) "the message that u want u put"
+5.to see the commit that have been done:git log
